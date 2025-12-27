@@ -5,7 +5,8 @@ A modern and responsive fresh food & organic grocery website built using **HTML,
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/FreshFood-Organic-Grocery-Website/
+🔗 https://sandeepgithu.github.io/Fresh-Food/
+
 
 ---
 
